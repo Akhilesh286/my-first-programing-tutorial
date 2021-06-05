@@ -1,0 +1,10 @@
+#while loop
+I=1
+while I < 5 :
+	print(I)
+	I += 1
+else :
+	print("over")
+#lambda
+add_5=lambda number : number + 10
+print(add_5(10))

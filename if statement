@@ -1,0 +1,30 @@
+#if statement
+age=20
+if age >18 :
+	print("you can vote in election ")
+else :
+	print("you have to wait in till 18")
+	
+	
+	
+	
+
+
+#if
+a , b = 10 , 20
+if a == 10: 
+      print("correct")
+else:
+      print("in correct")
+#and/or
+if a==10 and b==20 :
+	print ("correct")
+else:
+	print("incorrect")
+if a==10 or b==20 :
+	print ("correct")
+	if a>b :
+		print("hai")
+elif a==10:
+	print ("hai")
+	

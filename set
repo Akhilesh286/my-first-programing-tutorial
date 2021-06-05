@@ -1,0 +1,4 @@
+#set
+my_data={"name":"Akhilesh","age":"13"}
+print(my_data.get("age"))
+()

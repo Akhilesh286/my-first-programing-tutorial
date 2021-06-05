@@ -1,0 +1,5 @@
+#variables 
+watch=500
+name = 'akhilesh'
+print(watch-10)
+print(name)

@@ -1,0 +1,7 @@
+#tuples
+fruits=['apple','orange']
+number=[21,4,10]
+number.sort(reverse=True)
+print(number)
+add=fruits+number
+print(add)

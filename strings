@@ -1,0 +1,31 @@
+#strings
+word='hai dude'
+word2="my age is 14"
+print(word)
+word3="hello"
+print (word3[0])
+
+#slicing
+#length
+print (len(word3))
+#.strip
+word5=("     hai iam Akhilesh")
+print(word5.strip())
+#.upper
+word6=('hai')
+print(word6.upper())
+#.lower
+word7=('HAI')
+print(word7.lower())
+#.replace
+word8="raj"
+print(word8.replace('j','ju'))
+#join,rendex,isdigit
+#split
+print(word8.split('a'))
+print("raj"in word8)
+print("raju"in word8)
+#+
+a=8
+b=2
+print(a+b)

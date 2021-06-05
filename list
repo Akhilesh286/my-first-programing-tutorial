@@ -1,0 +1,11 @@
+#list
+fruits=["apple"," orange","cherry"]
+fruits[1]='banana'
+fruits.append("orange")
+print(len(fruits))
+print(fruits[-1])
+#number
+number=[11,1,30]
+number.sort()
+print(number)
+

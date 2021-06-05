@@ -1,0 +1,13 @@
+
+#casting
+number1=10
+number1+=10
+number2=number1+20
+print(number2)
+#type
+a=float(20)
+b=int(20.20)
+c=str(120)
+d='h3'
+print(type(d))
+print(a,b,c)

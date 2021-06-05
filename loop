@@ -1,0 +1,16 @@
+#loop
+#for loop
+frutes=['apple','orange']
+
+for frute in frutes:
+	print(frute)
+for i in "hai , welcome":
+	if i ==',':
+		 print(", it present")
+else:
+	print("it not present")
+#range
+for number in range(2,5,2):
+	print(number)
+else:
+	print("finish")

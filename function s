@@ -1,0 +1,13 @@
+#function	#def
+def addiction (a , b) :
+	print(a+b)
+	
+def substraction (a,b) :
+	print(a - b)
+	
+
+	
+	
+substraction(100,200)
+addiction(100,200)
+	

@@ -1,0 +1,14 @@
+#indian_time = input('wrate time')
+#print (type(indian_time))
+hour = input('hai')
+minite = input('hi')
+print (type(hour))
+print (type(minite))
+us_time = (hour-10,minite-30)#int(indian_time))
+print (type(us_time))
+print (us_time)
+
+
+
+
+
